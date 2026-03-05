@@ -2,11 +2,11 @@
 
 <div>
 
-* [Introduction](#introduction)
-* [Dashboard](#dashboard)
-* [Deep Dive Analysis](#deep-dive)
-* [Recommendations](#recommendations)
-* [Technical Details](#technical-details)
+1. [Introduction](#introduction)
+2. [Dashboard](#dashboard)
+3. [Deep Dive Analysis](#deep-dive)
+4. [Recommendations](#recommendations)
+5. [Technical Details](#technical-details)
 
 </div>
 
